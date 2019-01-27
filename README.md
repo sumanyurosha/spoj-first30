@@ -8,8 +8,9 @@
  # Problems Solved:
   1. https://www.spoj.com/problems/TEST/
   2. https://www.spoj.com/problems/ADDREV/
-  3. 
+  3. https://www.spoj.com/problems/PRIME1/
  
  
  # Concepts Learnt 
- 
+  1.[Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes)
+  2.[Segmented Sieve](https://www.youtube.com/watch?v=fByR5N-TseY)
