@@ -6,9 +6,9 @@
   3. Update the readme file with the name of problems solved everyday.
  
  # Problems Solved:
-  1. https://www.spoj.com/problems/TEST/
-  2. https://www.spoj.com/problems/ADDREV/
-  3. https://www.spoj.com/problems/PRIME1/
+  1. 26th Jan, 2019 https://www.spoj.com/problems/TEST/
+  2. 26th Jan, 2019 https://www.spoj.com/problems/ADDREV/
+  3. 27th Jan, 2019 https://www.spoj.com/problems/PRIME1/
  
  
  # Concepts Learnt 
