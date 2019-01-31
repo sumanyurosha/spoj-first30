@@ -31,7 +31,7 @@
   
   3. I used Stacks to solve the problem ONP. It was nice using stacks to solve this problem.
   
-  4. I encountered an intresting problem today, COINS! Well it is a dp problem but I didn't understand the dp part in it and just solved using my conventional approach. The trick was to pre-compute values till 10^8 and use those values to calculate answers till 10^9 by using recursion.
+  4. I encountered an interesting problem today, COINS! Well it is a dp problem but I didn't understand the dp part in it and just solved using my conventional approach. The trick was to pre-compute values till 10^8 and use those values to calculate answers till 10^9 by using recursion.
     **I need to understand a lot more about dp**
   
   
