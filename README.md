@@ -18,6 +18,7 @@
   10. 31st Jan, 2019 https://www.spoj.com/problems/CANDY/
   11. 31st Jan, 2019 https://www.spoj.com/problems/FASHION/
   12. 31st Jan, 2019 https://www.spoj.com/problems/TOANDFRO/
+  13. 31st Jan, 2019 https://www.spoj.com/problems/COINS/
   
  
  
@@ -29,5 +30,8 @@
   2. I always love to play with Arrays and this time I played with arrays in a different way and solved the problem FCTRL2. I had to calculate the factorial of any integer less than 100. So this time no direct calculations but the basic concepts of 2nd Standard school helped me out. I used the array to store a number digit by digit. For example, 10483 will be stored like this {1,0,4,8,3}. Now I applied the multiplication rule like we used to apply when we are in 2nd class, yes the carry method! That's how I solved it. I am not covering complete implementation but I will surely write a blog for the full implementation of this problem.
   
   3. I used Stacks to solve the problem ONP. It was nice using stacks to solve this problem.
+  
+  4. I encountered an intresting problem today, COINS! Well it is a dp problem but I didn't understand the dp part in it and just solved using my conventional approach. The trick was to pre-compute values till 10^8 and use those values to calculate answers till 10^9 by using recursion.
+    **I need to understand a lot more about dp**
   
   
