@@ -19,6 +19,8 @@
   11. 31st Jan, 2019 https://www.spoj.com/problems/FASHION/
   12. 31st Jan, 2019 https://www.spoj.com/problems/TOANDFRO/
   13. 31st Jan, 2019 https://www.spoj.com/problems/COINS/
+  14. 1st Feb, 2019 https://www.spoj.com/problems/AE00/
+  15. 1st Feb, 2019 https://www.spoj.com/problems/LASTDIG/
   
  
  
