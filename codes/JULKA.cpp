@@ -1,36 +1,42 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-string* add(string a, string b)
+bool carryFlag = false;
+int* add(int* a, int* b,int n)
 {
-	int index = a.size();
-	char answer[index+1];
-	string modifiedB;
-	for(int i=0;i<a.size()-b.size();i++)
-		modifiedB.append((char)0);
-	modifiedB.append(b);
-	
+	//step 1
+	int answer[n+1];
+	//step 2
 	int carry = 0;
-	for(int i=a.size()-1;i>=0;i--)
+	//step 3
+	for(int i=n-1;i>=0;i--)
 	{
-		int sum = carry + a[i] + modifiedB[i] - 96;
-		answer[index--] = sum%10;
+		int sum = a[i] + b[i] + carry;
+		answer[i+1] = sum%10;
 		carry = sum/10;
 	}
+	//step 4
 	if(carry>0)
-		answer[index] = carry;
-	else 
-		answer = answer.substr(1,a.size());
-	return string(answer);
-}
-string subtract(string a, string b)
-{
-	string answer;
+	{
+		answer[0] = carry;
+		carryFlag = true;
+	}
+	else
+	{
+		for(int i=0;i<n;i++)
+			answer[i]=answer[i+1];
+	}
+	
 	return answer;
 }
-string divideBy2(string a)
+char* subtract(string a, string b)
 {
 	string answer;
-	return answer;
+	//return null;
+}
+char* divideBy2(string a)
+{
+	string answer;
+	//return null;
 }
 int main()
 {
@@ -38,9 +44,25 @@ int main()
 	int t = 10;
 	while(t--)
 	{
-		string sumOfApples, diffOfApples;
+		char sumOfApples[102], diffOfApples[102];
 		cin>>sumOfApples>>diffOfApples;
-		cout<<add(sumOfApples,diffOfApples);
+		int n = strlen(sumOfApples), m = strlen(diffOfApples);
+		int a[n],b[n];
+		
+		carryFlag = false;
+		//conversion from char array to int array
+		for(int i=0;i<n;i++)
+			a[i] = sumOfApples[i] - '0';
+		for(int i=0;i<n-m;i++)
+			b[i] = 0;
+		for(int i=n-m;i<n;i++)
+			b[i] = diffOfApples[i-(n-m)] - '0';
+		int* answer = add(a,b,n);
+		if(carryFlag == true)
+			n++;
+		for(int i=0;i<n;i++)
+			cout<<answer[i]<<endl;
+		cout<<endl;
 		//cout<<divideBy2(add(sumOfApples,diffOfApples))<<endl;
 		//cout<<divideBy2(subtract(sumOfApples,diffOfApples))<<endl;
 	}
