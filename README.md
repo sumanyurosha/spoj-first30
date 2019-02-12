@@ -22,6 +22,7 @@
   14. 1st Feb, 2019 https://www.spoj.com/problems/AE00/
   15. 1st Feb, 2019 https://www.spoj.com/problems/LASTDIG/
   16. 9th Feb, 2019 https://www.spoj.com/problems/ACODE/
+  17. 12th Feb, 2019 https://www.spoj.com/problems/JULKA/
   
  
  
@@ -36,6 +37,9 @@
   
   4. I encountered an interesting problem today, COINS! Well it is a dp problem but I didn't understand the dp part in it and just solved using my conventional approach. The trick was to pre-compute values till 10^8 and use those values to calculate answers till 10^9 by using recursion.
     **I need to understand a lot more about dp**
+    
   5. I Solved problem ACODE and found it really very interesting one. A very famous saying in Dynamic Programming is, "If you don't remember the past, you are condemned to repeat it". This statement justifies DP very well. DP is all about breaking a problem into sub problems and finding the overlapping solutions for it. Happy to solve it, now will look forward to more such problems.
+  
+  6. I solved JULKA and I am very very happy after solving it. I always knew the approach to solve it but was stucking in the implementation part. And finally I have done it!!! This problem helped me in learning how to pass an array to a function and how to return an array from a function. Because of this mistake my earlier attempts had failed. Just like the problem FCTRL, I used the most basic approach for solving mathematical addition, sbtraction and division but for very very big numbers(upto 10^10000). 
   
   
