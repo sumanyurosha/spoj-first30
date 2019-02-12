@@ -21,6 +21,7 @@
   13. 31st Jan, 2019 https://www.spoj.com/problems/COINS/
   14. 1st Feb, 2019 https://www.spoj.com/problems/AE00/
   15. 1st Feb, 2019 https://www.spoj.com/problems/LASTDIG/
+  16. 9th Feb, 2019 https://www.spoj.com/problems/ACODE/
   
  
  
@@ -35,5 +36,6 @@
   
   4. I encountered an interesting problem today, COINS! Well it is a dp problem but I didn't understand the dp part in it and just solved using my conventional approach. The trick was to pre-compute values till 10^8 and use those values to calculate answers till 10^9 by using recursion.
     **I need to understand a lot more about dp**
+  5. I Solved problem ACODE and found it really very interesting one. A very famous saying in Dynamic Programming is, "If you don't remember the past, you are condemned to repeat it". This statement justifies DP very well. DP is all about breaking a problem into sub problems and finding the overlapping solutions for it. Happy to solve it, now will look forward to more such problems.
   
   
