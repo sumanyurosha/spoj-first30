@@ -24,6 +24,12 @@
   16. 9th Feb, 2019 https://www.spoj.com/problems/ACODE/
   17. 12th Feb, 2019 https://www.spoj.com/problems/JULKA/
   18. 16th Feb, 2019 https://www.spoj.com/problems/ABSYS/
+  19. 25th Feb, 2019 https://www.spoj.com/problems/HANGOVER/
+  20. 25th Feb, 2019 https://www.spoj.com/problems/WILLITST/
+  21. 25th Feb, 2019 https://www.spoj.com/problems/ARMY/
+  22. 25th Feb, 2019 https://www.spoj.com/problems/STAMPS/
+  23. 25th Feb, 2019 https://www.spoj.com/problems/PERMUT2/
+  24. 25th Feb, 2019 https://www.spoj.com/problems/AP2/
   
  
  
