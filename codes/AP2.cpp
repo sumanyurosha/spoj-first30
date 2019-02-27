@@ -6,10 +6,8 @@ int main()
 	cin>>t;
 	while(t--)
 	{
-		ios::sync_with_stdio(false);
 		long long p,q,r;
 		cin>>p>>q>>r;
-		long long a,d,n;
 		if(p+q==0)
 		{
 			n = 7;
@@ -22,6 +20,7 @@ int main()
 			d = (q-p)/(n-5);
 			a = p - 2*d;
 		}
+		
 		cout<<n<<"\n";
 		for(int i=0;i<n;i++)
 		{
