@@ -30,6 +30,7 @@
   22. 25th Feb, 2019 https://www.spoj.com/problems/STAMPS/
   23. 25th Feb, 2019 https://www.spoj.com/problems/PERMUT2/
   24. 25th Feb, 2019 https://www.spoj.com/problems/AP2/
+  25. 27th Feb, 2019 https://www.spoj.com/problems/PALIN/
   
  
  
@@ -48,5 +49,8 @@
   5. I Solved problem ACODE and found it really very interesting one. A very famous saying in Dynamic Programming is, "If you don't remember the past, you are condemned to repeat it". This statement justifies DP very well. DP is all about breaking a problem into sub problems and finding the overlapping solutions for it. Happy to solve it, now will look forward to more such problems.
   
   6. I solved JULKA and I am very very happy after solving it. I always knew the approach to solve it but was stucking in the implementation part. And finally I have done it!!! This problem helped me in learning how to pass an array to a function and how to return an array from a function. Because of this mistake my earlier attempts had failed. Just like the problem FCTRL, I used the most basic approach for solving mathematical addition, sbtraction and division but for very very big numbers(upto 10^10000). 
+  
+  7. Finally, I solved PALIN today and I am very very happy after getting AC for it. It took me two days(2 hrs each day) to implement this problem. I got the concept very early but this was more of an Implementation problem so I had to deal with all the corner cases, which took a little more time to handle. But finally, yes it always feels good to do something you have always thought of. One more down and many more to go. BOOM!! (PS: Hard work pays off :P)
+  
   
   
