@@ -31,6 +31,8 @@
   23. 25th Feb, 2019 https://www.spoj.com/problems/PERMUT2/
   24. 25th Feb, 2019 https://www.spoj.com/problems/AP2/
   25. 27th Feb, 2019 https://www.spoj.com/problems/PALIN/
+  26. 28th Feb, 2019 https://www.spoj.com/problems/FENCE1/
+
   
  
  
