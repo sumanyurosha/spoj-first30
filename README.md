@@ -33,6 +33,7 @@
   25. 27th Feb, 2019 https://www.spoj.com/problems/PALIN/
   26. 28th Feb, 2019 https://www.spoj.com/problems/FENCE1/
   27. 3rd March, 2019 https://www.spoj.com/problems/STPAR/
+  28. 3rd March, 2019 https://www.spoj.com/problems/TRICOUNT/
 
   
  
