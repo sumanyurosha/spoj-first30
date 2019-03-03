@@ -55,7 +55,7 @@
   
   7. Finally, I solved PALIN today and I am very very happy after getting AC for it. It took me two days(2 hrs each day) to implement this problem. I got the concept very early but this was more of an Implementation problem so I had to deal with all the corner cases, which took a little more time to handle. But finally, yes it always feels good to do something you have always thought of. One more down and many more to go. BOOM!! (PS: Hard work pays off :P)
   
-  8. I solved STRPAR problem, it was an intresting one which I solved using stacks. 
+  8. I solved STPAR problem, it was an intresting one which I solved using stacks. 
   
   
   
