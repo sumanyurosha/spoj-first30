@@ -64,24 +64,30 @@
 ### Goal Completed!
 Feeling very excited and happy about it. Achieving it helped me in following ways:
 
-A) Knowledge Level:
-1.) Reviving hands-on Experience.
-2.) Confidence level increment.
-3.) Helped me write code in Java in Office in a better way.
-4.) Growing my knowledge domain.
-5.) Helping me dwelling a habit of working on Github.
-6.) Helping me in keeping a habit of coding every day.
+ # A) Knowledge Level:
 
-B) Psychological Level:
-1.) A good way to get away with the habit of Overthinking is to start doing something and keeping yourself busy and yes this helped me in every possible way.
-2.) Bridging the gap between my thoughts and reality!
-3.) Keeping yourself away from all the shit happening around you.
-4.) Staying focused on your GOALS.
+    1.) Reviving hands-on Experience.
+
+    2.) Confidence level increment.
+    
+    3.) Helped me write code in Java in Office in a better way.
+    
+    4.) Growing my knowledge domain.
+    
+    5.) Helping me dwelling a habit of working on Github.
+    
+    6.) Helping me in keeping a habit of coding every day.
+
+# B) Psychological Level:
+    1.) A good way to get away with the habit of Overthinking is to start doing something and keeping yourself busy and yes this helped me in every possible way.
+    2.) Bridging the gap between my thoughts and reality!
+    3.) Keeping yourself away from all the shit happening around you.
+    4.) Staying focused on your GOALS.
 
 ### Take aways:
- -- I could have done it sooner.
- -- Time to take up the level 2 or level 3 questions, most of the above ones were elementary level.
- -- Be regular in it.
+     -- I could have done it sooner.
+     -- Time to take up the level 2 or level 3 questions, most of the above ones were elementary level.
+     -- Be regular in it.
  
  
   
