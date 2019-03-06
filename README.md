@@ -75,12 +75,12 @@ Feeling very excited and happy about it. Achieving it helped me in following way
 
 # B) Psychological Level:
     1.) A good way to get away with the habit of Overthinking is to start doing something and keeping yourself
-    busy and yes this helped me in every possible way.
+        busy and yes this helped me in every possible way.
     2.) Bridging the gap between my thoughts and reality!
     3.) Keeping yourself away from all the shit happening around you.
     4.) Staying focused on your GOALS.
 
-### Take aways:
+### Improvements:
      -- I could have done it sooner.
      -- Time to take up the level 2 or level 3 questions, most of the above ones were elementary level.
      -- Be regular in it.
