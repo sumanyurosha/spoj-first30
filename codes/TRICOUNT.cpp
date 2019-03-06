@@ -7,7 +7,7 @@ int main() {
 	cin>>t;
 	while(t--)
 	{
-		int n;
+		long long n;
 		cin>>n;
 		long long ans = n*(n+2);
 		ans = ans*(2*n+1);
