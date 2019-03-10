@@ -60,6 +60,7 @@
   
   8. I solved STPAR problem, it was an intresting one which I solved using stacks. 
   9. Solved OLOLO, as the name is different the approach to solve it was also different. I used bitwise XOR operation to solve it. There is a lot to explore about the BITWISE operations and their applications. Got to know a new term, Bitmasking. Will surely try to know more about it!
+  10. Trying to Solve Is it a Tree problem. Learnt about graph, its representation, bfs and dfs. Will try to solve the problem tomorrow.
   
 ### Goal Completed!
 Feeling very excited and happy about it. Achieving it helped me in following ways:
