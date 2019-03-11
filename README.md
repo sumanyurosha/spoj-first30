@@ -61,7 +61,7 @@
   
   8. I solved STPAR problem, it was an intresting one which I solved using stacks. 
   9. Solved OLOLO, as the name is different the approach to solve it was also different. I used bitwise XOR operation to solve it. There is a lot to explore about the BITWISE operations and their applications. Got to know a new term, Bitmasking. Will surely try to know more about it!
-  10. I solved Is it a Tree problem. Learnt about graph, its representation, bfs and dfs. Very happy after solving a graph problem. Way to go in Graph Theory!
+  10. I solved Is it a Tree problem. Learnt about graph, its representation, bfs and dfs. Very happy after solving a graph problem. Way to go in Graph Theory! Also solved it using Disjoint Set Union. Good to a learn a new concept :-D!
   
 ### Goal Completed!
 Feeling very excited and happy about it. Achieving it helped me in following ways:
