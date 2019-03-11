@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+	ios::sync_with_stdio(false);
 	int n;
 	cin>>n;
 	set<int> myset;
@@ -12,6 +13,7 @@ int main()
 		int x;
 		cin>>x;
 		res = res ^ x;
+		cout<<res<<"\n";
 	}
 	cout<<res;
 	return 0;
