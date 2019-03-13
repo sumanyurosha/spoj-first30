@@ -1,5 +1,6 @@
 #include<iostream>
 #include<list>
+#include<algorithm>
 using namespace std;
 class Graph{
 	
@@ -32,21 +33,35 @@ class Graph{
 			adj[u].push_back(v);
 			adj[v].push_back(u);
 		}
-		int bfs(int s, int parent)
+		int dfs()
 		{
 			bool *visited = new bool[V];
 			for(int i=0;i<V;i++)
 				visited[i] = false;
+			int s = 0;
+			for(int i=0;i<V;i++)
+			{
+			    if(adj[i].size()>1)
+			    {
+			        s = i;
+			        break;
+			    }
+			}
+			
+			int *length = new int[adj[s].size()];
 			int maxLength = 0;
+			int index = 0;
 			for(auto x : adj[s])
 			{
 				if(!visited[x])
 				{
 					//cout<<x+1<<" ";
-					maxLength = max(countEdges(x,visited,s) + 1, maxLength);
+					//maxLength = max(countEdges(x,visited,s) + 1, maxLength);
+					length[index++] = countEdges(x,visited,s) + 1;
 				}
 			}
-			return maxLength;
+			sort(length,length+index);
+			cout<< length[index-1]+length[index-2];
 		}
 };
 int main()
@@ -60,25 +75,6 @@ int main()
 		cin>>u>>v;
 		graph.addEdge(--u,--v);
 	}
-	int maxLength = 0;
-	for(int i=0;i<n;i++)
-	{
-		//cout<<"for i = "<<i+1<<"\n"<<"nodes visited : "<<i+1<<" ";
-		int x = graph.bfs(i,-1);
-		//cout<<"\nlength = "<<x;
-		maxLength = max(x,maxLength);
-		//cout<<"\n";
-	}
-	cout<<maxLength;
+	graph.dfs();
+	return 0;
 }
-/*
-9
-1 2
-1 3
-1 4
-2 5
-5 8
-4 6
-4 7
-7 9
-*/
