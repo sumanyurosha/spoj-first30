@@ -38,6 +38,7 @@
   30. 6th March, 2019 https://www.spoj.com/problems/OLOLO/
   31. 11th March, 2019 https://www.spoj.com/problems/PT07Y/
   32. 12th March, 2019 https://www.spoj.com/problems/PT07Z/
+  33. 13th March, 2019 https://www.spoj.com/problems/BEENUMS/
 
   
  
@@ -64,6 +65,7 @@
   9. Solved OLOLO, as the name is different the approach to solve it was also different. I used bitwise XOR operation to solve it. There is a lot to explore about the BITWISE operations and their applications. Got to know a new term, Bitmasking. Will surely try to know more about it!
   10. I solved Is it a Tree problem. Learnt about graph, its representation, bfs and dfs. Very happy after solving a graph problem. Way to go in Graph Theory! Also solved it using Disjoint Set Union. Good to a learn a new concept :-D!
   11. Solved PT07Z, another Graph problem. Used dfs with recursion. First approach gave TLE but a little move reduced the Comlexity.
+  12. Solved BEENUMS using Binary Search!
   
 ### Goal Completed!
 Feeling very excited and happy about it. Achieving it helped me in following ways:
